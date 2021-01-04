@@ -1,6 +1,6 @@
 # Nick Bukovec
 i create projects sometimes
 
-github: @nmbukovec
+github: @buk0vec
 
 instagram: @buk0vec

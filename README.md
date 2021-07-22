@@ -1,6 +1,3 @@
-# Nick Bukovec
-i create projects sometimes
+# bukovec.io
 
-github: @buk0vec
-
-instagram: @buk0vec
+Basic personal website
